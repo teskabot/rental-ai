@@ -1,0 +1,25 @@
+.env
+venv/
+rental.db
+__pycache__/
+
+# --- agregado en migracion ---
+.DS_Store
+__pycache__/
+*.pyc
+venv/
+.venv/
+node_modules/
+build/
+dist/
+*.db
+*.sqlite
+*.exe
+*.dll
+*.zip
+*.pem
+*.key
+.env
+.env.*
+!.env.example
+
